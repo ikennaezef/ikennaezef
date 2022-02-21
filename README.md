@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ikennaezef
+- 👋 Hi, I’m Ikenna
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning reactjs
 - 💞️ I’m looking to collaborate on any frontend projects
