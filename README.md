@@ -52,10 +52,13 @@ You can click the Preview link to take a look at your changes.
 </span>
 
 <span align="right" >
-   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ikennaezef&show_icons=true&bg_color=3D3D3D&title_color=00E6FE&text_color=FFFFFF&locale=en&layout=compact" alt="ikennaezef" />
+   <!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ikennaezef&show_icons=true&bg_color=3D3D3D&title_color=00E6FE&text_color=FFFFFF&locale=en&layout=compact" alt="ikennaezef" /> --!>
+
+   ![Ikenna's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ikennaezef&show_icons=true&bg_color=3D3D3D&title_color=00E6FE&text_color=FFFFFF&locale=en&layout=compact)
 </span>
 
 
-<span >
+<span align="left" >
+
 ![My GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ikennaezef&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE)
 </span>
