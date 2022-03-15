@@ -8,7 +8,7 @@
 ikennaezef/ikennaezef is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
- -->
+ 
  
  
  
@@ -21,10 +21,10 @@ You can click the Preview link to take a look at your changes.
   <p>Hey there, welcome!</br>
   I'm Ikenna Eze, a Front End developer that loves crafting elegant user experiences
   	
-  💡 &nbsp;I like to explore new trends and learn new technologies.
-  🌱 &nbsp;I'm learning more about <a style="color:#45b8d8" href="https://reactjs.org/" target="_blank"><u>React</u></a> everyday...
-  🚧 &nbsp;I'm currently working on developing new projects to enhance my learning  ... 👀.\
-  💬 &nbsp;Feel free to reach out to me for consulting, volunteering or just for some interesting discussion.
+  💡 &nbsp;I like to explore new trends and learn new technologies. </br>
+  🌱 &nbsp;I'm learning more about <a style="color:#45b8d8" href="https://reactjs.org/" target="_blank"><u>React</u></a> everyday... </br>
+  🚧 &nbsp;I'm currently working on developing new projects to enhance my learning  ... </br>
+  💬 &nbsp;Feel free to reach out to me for collaborations, volunteering or just for some interesting discussion. </br>
   📫 &nbsp;You can reach me via email at iykee0333@gmail.com
 </p>
 <br>
@@ -52,9 +52,9 @@ You can click the Preview link to take a look at your changes.
 </span>
 
 <span align="right" >
-   <!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ikennaezef&show_icons=true&bg_color=3D3D3D&title_color=00E6FE&text_color=FFFFFF&locale=en&layout=compact" alt="ikennaezef" /> --!>
+   
 
-   ![Ikenna's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ikennaezef&show_icons=true&bg_color=3D3D3D&title_color=00E6FE&text_color=FFFFFF&locale=en&layout=compact)
+   ![Ikenna's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ikennaezef&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=00E6FE&text_color=FFFFFF&locale=en&layout=compact)
 </span>
 
 
