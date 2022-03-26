@@ -51,7 +51,7 @@ You can click the Preview link to take a look at your changes.
 ![Ikenna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ikennaezef&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF)
 </span>
 
-<span align="right" >
+<span align="left" >
    
 
    ![Ikenna's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ikennaezef&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=00E6FE&text_color=FFFFFF&locale=en&layout=compact)
