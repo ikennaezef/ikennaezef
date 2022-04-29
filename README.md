@@ -1,6 +1,6 @@
 <!-- - 👋 Hi, I’m Ikenna
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning reactjs
+- 🌱 I’m currently learning reactjs and nextjs
 - 💞️ I’m looking to collaborate on any frontend projects
 - 📫 You can reach me via email at iykee0333@gmail.com
 
@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
   I'm Ikenna Eze, a Front End developer that loves crafting elegant user experiences
   	
   💡 &nbsp;I like to explore new trends and learn new technologies. </br>
-  🌱 &nbsp;I'm learning more about <a style="color:#45b8d8" href="https://reactjs.org/" target="_blank"><u>React</u></a> everyday... </br>
+  🌱 &nbsp;I'm learning more about React and Nextjs everyday... </br>
   🚧 &nbsp;I'm currently working on developing new projects to enhance my learning  ... </br>
   💬 &nbsp;Feel free to reach out to me for collaborations, volunteering or just for some interesting discussion. </br>
   📫 &nbsp;You can reach me via email at iykee0333@gmail.com
