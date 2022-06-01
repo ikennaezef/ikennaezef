@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
  
  
  
- # <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="25px" />&nbsp;<b>Hi, I'm Ikenna</b>
+ # <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35" />&nbsp;<b>Hi, I'm Ikenna</b>
 
 <br>
 
