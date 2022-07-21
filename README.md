@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <!-- <img align="right" src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/Memoji.png" width="200"/> -->
-<p aligh="left">
+<p align="left">
   <p>Hey there, welcome!</br>
   I'm Ikenna Eze, a Front End developer that loves crafting elegant user experiences
   	
