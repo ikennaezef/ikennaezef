@@ -1,5 +1,5 @@
 <!-- - 👋 Hi, I’m Ikenna
-- 👀 I’m interested in web development.
+- 👀 I’m interested in web development...
 - 🌱 I’m currently learning reactjs and nextjs.
 - 💞️ I’m looking to collaborate on any frontend projects
 - 📫 You can reach me via email at iykee0333@gmail.com
