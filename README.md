@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes
  # <img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35" />&nbsp;<b>Hi, I'm Ikenna</b>
 
 <br>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ikennaezef&label=Profile%20views&color=0e75b6&style=flat" alt="ikennaezef" /> </p>
 
 <!-- <img align="right" src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/Memoji.png" width="200"/> -->
 <p align="left">
