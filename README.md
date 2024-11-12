@@ -20,10 +20,10 @@ You can click the Preview link to take a look at your changes
 <!-- <img align="right" src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/Memoji.png" width="200"/> -->
 <p align="left">
   <p>Hey there, welcome!</br>
-  I'm Ikenna Eze, a Front End developer that loves crafting elegant user experiences
+  I'm Ikenna Eze, a fullstack developer that loves crafting elegant user experiences
   	
   💡 &nbsp;I like to explore new trends and learn new technologies. </br>
-  🌱 &nbsp;I'm currently learning Nodejs. </br>
+  <!-- 🌱 &nbsp;I'm currently learning Nodejs. </br> -->
   🚧 &nbsp;I'm currently working on developing new projects to enhance my learning  ... </br>
   💬 &nbsp;Feel free to reach out to me for collaborations, volunteering or just for some interesting discussion. </br>
   📫 &nbsp;You can reach me via email at iykee0333@gmail.com
